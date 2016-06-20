@@ -1,0 +1,50 @@
+---
+title: "R code"
+author: "Vojtech Huser"
+date: "June 14, 2016"
+output: html_document
+---
+
+#Load data and plot some outputs
+```{r }
+library(readr)
+library(plyr);library(dplyr);library(magrittr);library(tidyr);library(stringr);library(readr)
+
+#get categories (from excel via clipboard)
+#write_csv(dfCategories,pat='df_categories.csv')
+
+
+#import data into R
+d<-read_csv(file='c:/w/w/d/doseform/2016-data.csv')
+
+d2<-join(d,select(dfCategories,1,2))
+#d2 %<>% filter(sum_prev>0.01)
+
+library(ggplot2)
+
+#transform data
+d3<-d2 %>% group_by(ingredient,df_category) %>% mutate(df_cat_sum=sum(sum_prev)) 
+d4<-d3 %>% group_by(ingredient) %>% mutate(ingredient_sum=sum(sum_prev))
+d4$df_cat_percentage<-d4$df_cat_sum/d4$ingredient_sum*100
+
+# p<-ggplot(data = head(d2,40), aes(x=ingredient,y=sum_prev,fill=df_category)) + geom_bar(stat="identity") + theme(axis.text.x=element_text(angle=90, hjust=1))
+# p
+
+d5<-d4 %>% select(-dose_form,-cnt,-sum_prev) %>% unique()
+d5 %<>% group_by(ingredient) %>% mutate(df_cat_count=n()) %>% arrange(df_cat_count,ingredient)
+
+#filter to only some nice ingredients
+drugs='Neomycin|Clindamycin|Diclofenac|Acyclovir|Progesterone|Pilocarpine|Lidocaine|Prednisolone|Triamcinolone|Dihydroergotamine|Tacrolimus|Ciprofloxacin'
+#lidocaine is bad
+drugs='Neomycin|Clindamycin|Diclofenac|Acyclovir|Progesterone|Pilocarpine|Prednisolone|Triamcinolone|Triamcinolone|Dihydroergotamine|Tacrolimus|Ciprofloxacin|Tetracaine|Ivermectin'
+
+d6<-d5 %>% filter(grepl(drugs,ingredient)) %>% arrange(desc(df_cat_percentage))
+
+#figure 1 plot
+p<-ggplot(data = d6, aes(x=ingredient,y=df_cat_percentage,fill=df_category)) + geom_bar(stat="identity") +
+   theme(axis.text.x=element_text(angle=-90, hjust=0,vjust=.2)) +
+    #scale_fill_brewer(palette="Spectral")  # scale_fill_brewer()
+    scale_fill_brewer(palette="Set1") +ylab('percentage') + labs(fill='Dose Form \n Category')
+
+p
+```
