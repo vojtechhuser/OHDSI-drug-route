@@ -1,0 +1,1465 @@
+ingredient,df_category,df_cat_sum,ingredient_sum,df_cat_percentage,df_cat_count
+4-Aminobenzoate,oral,0,0,NaN,1
+4-cresyl acetate,otic,0,0,NaN,1
+6-Aminocaproic Acid,oral,0.04,0.04,100,1
+abacavir,oral,0.2,0.2,100,1
+abatacept,injection,0.01,0.01,100,1
+abiraterone,oral,0.02,0.02,100,1
+abobotulinumtoxinA,injection,0.02,0.02,100,1
+acamprosate,oral,0.16,0.16,100,1
+Acarbose,oral,0.15,0.15,100,1
+Acebutolol,oral,0.14,0.14,100,1
+"acellular pertussis vaccine, inactivated",injection,0.39,0.39,100,1
+Acetaminophen,oral,183.24,183.24,100,1
+Acetazolamide,oral,0.89,0.89,100,1
+Acetic Acid,otic,0.48,0.51,94.1176470588235,3
+Acetic Acid,vaginal,0.03,0.51,5.88235294117647,3
+Acetic Acid,Irrigation Solution,0,0.51,0,3
+Acetylcysteine,inhalant,0.03,0.03,100,1
+Acitretin,oral,0.1,0.1,100,1
+acrivastine,oral,0.05,0.05,100,1
+Acyclovir,oral,8.49,10.72,79.1977611940299,2
+Acyclovir,topical,2.23,10.72,20.8022388059701,2
+adapalene,topical,7.06,7.06,100,1
+adefovir,oral,0.01,0.01,100,1
+Afatinib,oral,0,0,NaN,1
+aflibercept,injection,0,0,NaN,1
+Albendazole,oral,0.27,0.27,100,1
+"Albumin Human, USP",injection,0.2,0.2,100,1
+"ALBUMIN,IODINATED I-131 SERUM",injection,0,0,NaN,1
+Albuterol,inhalant,20.91,21.61,96.760758907913,2
+Albuterol,oral,0.7,21.61,3.239241092087,2
+alcaftadine,ophtalmic,0.38,0.38,100,1
+Alclometasone,topical,0.44,0.44,100,1
+Alendronate,oral,2.68,2.69,99.6282527881041,2
+Alendronate,Effervescent Oral Tablet,0.01,2.69,0.371747211895911,2
+alfuzosin,oral,0.54,0.54,100,1
+aliskiren,oral,0.26,0.26,100,1
+Allantoin,topical,0.01,0.01,100,1
+Allopurinol,oral,6.66,6.66,100,1
+almotriptan,oral,0.12,0.12,100,1
+Aloe Polysaccharide,topical,0.06,0.06,100,1
+alogliptin,oral,0.12,0.12,100,1
+alosetron,oral,0.05,0.05,100,1
+alpha 1-Antitrypsin,injection,0,0,NaN,1
+alpha Tocopherol,oral,0.12,0.12,100,1
+Alprazolam,oral,30.42,30.42,100,1
+Alprostadil,Urethral Suppository,0.03,0.04,75,2
+Alprostadil,injection,0.01,0.04,25,2
+Alteplase,injection,0.43,0.43,100,1
+aluminum chloride,topical,1.42,1.42,100,1
+Aluminum Hydroxide,oral,0.31,0.31,100,1
+Amantadine,oral,0.4,0.4,100,1
+ambrisentan,oral,0.02,0.02,100,1
+amcinonide,topical,0.02,0.02,100,1
+Amikacin,injection,0,0,NaN,1
+Amiloride,oral,0.19,0.19,100,1
+Aminolevulinate,topical,0.03,0.03,100,1
+Aminolevulinic Acid,topical,0.54,0.54,100,1
+Aminophylline,injection,0.4,0.4,100,1
+Amiodarone,oral,0.65,0.71,91.5492957746479,2
+Amiodarone,injection,0.06,0.71,8.45070422535211,2
+Amitriptyline,oral,7.79,7.79,100,2
+Amitriptyline,topical,0,7.79,0,2
+Amlodipine,oral,34.72,34.72,100,1
+Amoxapine,oral,0,0,NaN,1
+Amoxicillin,oral,180.26,180.26,100,1
+Amphetamine,oral,21.46,21.46,100,1
+Amphotericin B,injection,0.01,0.01,100,1
+amphotericin B liposomal,injection,0.01,0.01,100,1
+Ampicillin,oral,0.97,0.97,100,1
+Amylases,oral,0.51,0.51,100,1
+anagrelide,oral,0.02,0.02,100,1
+anastrozole,oral,1.21,1.21,100,1
+Anthralin,topical,0.01,0.02,50,2
+Anthralin,Medicated Shampoo,0.01,0.02,50,2
+Antipyrine,otic,4.99,4.99,100,1
+apixaban,oral,0.36,0.36,100,1
+apraclonidine,ophtalmic,0.02,0.02,100,1
+apremilast,oral,0.07,0.07,100,1
+aprepitant,oral,0.27,0.27,100,1
+arformoterol,inhalant,0.04,0.04,100,1
+aripiprazole,oral,4.36,4.37,99.7711670480549,2
+aripiprazole,injection,0.01,4.37,0.22883295194508,2
+armodafinil,oral,0.77,0.77,100,1
+artemether,oral,0.01,0.01,100,1
+Ascorbic Acid,oral,7.79,7.79,100,1
+Asenapine,Sublingual Tablet,0.14,0.14,100,1
+Aspirin,oral,3.05,3.05,100,1
+Atazanavir,oral,0.15,0.15,100,1
+Atenolol,oral,11.44,11.44,100,1
+atomoxetine,oral,2.08,2.08,100,1
+atorvastatin,oral,40.34,40.34,100,1
+Atovaquone,oral,2.12,2.12,100,1
+Atropine,oral,2.98,3.3,90.3030303030303,2
+Atropine,ophtalmic,0.32,3.3,9.6969696969697,2
+Auranofin,oral,0,0,NaN,1
+Aurothiomalate,injection,0,0,NaN,1
+avanafil,oral,0.21,0.21,100,1
+axitinib,oral,0.01,0.01,100,1
+Azathioprine,oral,0.93,0.93,100,1
+azelastine,ophtalmic,1.09,1.09,100,1
+Azelate,topical,1.79,1.82,98.3516483516484,2
+Azelate,oral,0.03,1.82,1.64835164835165,2
+azilsartan,oral,0.24,0.24,100,1
+Azithromycin,oral,113.58,113.84,99.7716092761771,3
+Azithromycin,ophtalmic,0.25,113.84,0.219606465214336,3
+Azithromycin,Extended Release Suspension,0.01,113.84,0.00878425860857344,3
+Aztreonam,inhalant,0.03,0.03,100,1
+Bacitracin,ophtalmic,0.82,0.84,97.6190476190476,2
+Bacitracin,topical,0.02,0.84,2.38095238095238,2
+Baclofen,oral,3.53,3.54,99.7175141242938,2
+Baclofen,topical,0.01,3.54,0.282485875706215,2
+balsalazide,oral,0.21,0.21,100,1
+bazedoxifene,oral,0.08,0.08,100,1
+Becaplermin,topical,0.02,0.02,100,1
+belatacept,injection,0.01,0.01,100,1
+belimumab,injection,0.01,0.01,100,1
+Belladonna Alkaloids,rectal,0.03,0.03,100,1
+benazepril,oral,8.09,8.09,100,1
+Bendroflumethiazide,oral,0.01,0.01,100,1
+Benzoate,oral,0.04,0.04,100,1
+Benzocaine,otic,4.99,4.99,100,1
+benzonatate,oral,23.96,23.96,100,1
+Benzoyl Peroxide,topical,10.03,10.14,98.9151873767258,3
+Benzoyl Peroxide,Medicated Liquid Soap,0.09,10.14,0.887573964497041,3
+Benzoyl Peroxide,Medicated Bar Soap,0.02,10.14,0.19723865877712,3
+Benzphetamine,oral,0.01,0.01,100,1
+Benztropine,oral,0.53,0.55,96.3636363636364,2
+Benztropine,injection,0.02,0.55,3.63636363636364,2
+Benzyl Alcohol,topical,0.09,0.09,100,1
+bepotastine,ophtalmic,0.31,0.31,100,1
+besifloxacin,ophtalmic,0.81,0.81,100,1
+Beta Carotene,oral,0.1,0.1,100,1
+Betaine,oral,0,0,NaN,1
+Betamethasone,injection,15.06,28.1,53.5943060498221,6
+Betamethasone,topical,11.54,28.1,41.067615658363,6
+Betamethasone,Augmented Topical Cream,0.83,28.1,2.95373665480427,6
+Betamethasone,Augmented Topical Ointment,0.43,28.1,1.53024911032028,6
+Betamethasone,Augmented Topical Lotion,0.21,28.1,0.747330960854092,6
+Betamethasone,Augmented Topical Gel,0.03,28.1,0.106761565836299,6
+Betaxolol,ophtalmic,0.03,0.05,60,2
+Betaxolol,oral,0.02,0.05,40,2
+Bethanechol,oral,0.12,0.12,100,1
+bevacizumab,injection,0,0,NaN,1
+bexarotene,topical,0,0,NaN,2
+bexarotene,oral,0,0,NaN,2
+bicalutamide,oral,0.07,0.07,100,1
+Bifidobacterium Infantis,oral,0,0,NaN,1
+bimatoprost,ophtalmic,0.83,0.88,94.3181818181818,2
+bimatoprost,topical,0.05,0.88,5.68181818181818,2
+Biotin,oral,0.17,0.17,100,1
+Bisacodyl,oral,0.41,0.41,100,2
+Bisacodyl,rectal,0,0.41,0,2
+bismuth subcitrate,oral,0.16,0.16,100,1
+Bisoprolol,oral,2.2,2.2,100,1
+boceprevir,oral,0,0,NaN,1
+boric acid,topical,0,0,NaN,1
+bosentan,oral,0.02,0.02,100,1
+bosutinib,oral,0,0,NaN,1
+brentuximab vedotin,injection,0.01,0.01,100,1
+brimonidine,ophtalmic,1.38,1.89,73.015873015873,2
+brimonidine,topical,0.51,1.89,26.984126984127,2
+brinzolamide,ophtalmic,0.3,0.3,100,1
+bromfenac,ophtalmic,0.67,0.67,100,1
+Bromocriptine,oral,0.21,0.21,100,1
+Brompheniramine,oral,7.44,7.83,95.0191570881226,2
+Brompheniramine,injection,0.39,7.83,4.98084291187739,2
+Budesonide,inhalant,3.18,3.78,84.1269841269841,2
+Budesonide,oral,0.6,3.78,15.8730158730159,2
+Bumetanide,oral,0.51,0.51,100,1
+Bupivacaine,injection,0,0,NaN,1
+Bupivacaine liposome,injection,0.45,0.45,100,1
+Buprenorphine,Oral Strip,1.29,2.68,48.134328358209,4
+Buprenorphine,Sublingual Tablet,0.8,2.68,29.8507462686567,4
+Buprenorphine,transdermal,0.59,2.68,22.0149253731343,4
+Buprenorphine,Buccal Film,0,2.68,0,4
+Bupropion,oral,24.22,24.22,100,1
+Buspirone,oral,5.48,5.48,100,1
+butabarbital,oral,0,0,NaN,1
+butalbital,oral,7.78,7.78,100,1
+butenafine,topical,0.03,0.03,100,1
+Butorphanol,nasal,0.1,0.1,100,1
+C1 inhibitor (Human),injection,0,0,NaN,1
+cabergoline,oral,0.43,0.43,100,1
+cabozantinib,oral,0,0,NaN,1
+cadexomer iodine,topical,0.01,0.01,100,1
+Caffeine,oral,7.57,7.58,99.868073878628,3
+Caffeine,injection,0.01,7.58,0.131926121372032,3
+Caffeine,rectal,0,7.58,0,3
+calcipotriene,topical,1.36,1.36,100,1
+Calcitriol,oral,0.61,0.72,84.7222222222222,2
+Calcitriol,topical,0.11,0.72,15.2777777777778,2
+calcium acetate,oral,0.19,0.19,100,1
+Calcium ascorbate,oral,0.16,0.16,100,1
+Calcium Carbonate,oral,0.31,0.31,100,1
+Calcium Citrate,oral,0.02,0.02,100,1
+Calcium Glycerophosphate,injection,0,0,NaN,1
+calcium lactate,injection,0,0,NaN,1
+calcium threonate,oral,0.16,0.16,100,1
+canagliflozin,oral,2.18,2.18,100,1
+canakinumab,injection,0,0,NaN,1
+candesartan,oral,0.45,0.45,100,1
+capecitabine,oral,0.22,0.22,100,1
+Capsaicin,transdermal,0.08,0.08,100,2
+Capsaicin,topical,0,0.08,0,2
+Captopril,oral,0.15,0.15,100,1
+Carbamazepine,oral,1.42,1.42,100,1
+carbamide peroxide,otic,0,0,NaN,1
+Carbidopa,oral,0.58,0.58,100,1
+carbinoxamine,oral,0.17,0.17,100,1
+Carboplatin,injection,0,0,NaN,1
+Carisoprodol,oral,3.77,3.77,100,1
+Carteolol,ophtalmic,0.01,0.01,100,1
+carvedilol,oral,7.32,7.32,100,1
+Caspofungin,injection,0.01,0.01,100,1
+Castor Oil,topical,0.03,0.03,100,1
+Cefaclor,oral,0.12,0.12,100,1
+Cefadroxil,oral,1.99,1.99,100,1
+Cefazolin,injection,15.7,15.7,100,1
+cefdinir,oral,25.27,25.27,100,1
+cefditoren,oral,0.02,0.02,100,1
+cefepime,injection,0,0,NaN,1
+Cefixime,oral,1.62,1.62,100,1
+Cefoxitin,injection,0,0,NaN,1
+cefpodoxime,oral,0.29,0.29,100,1
+cefprozil,oral,2.82,2.82,100,1
+ceftibuten,oral,0.22,0.22,100,1
+Ceftriaxone,injection,22.07,22.07,100,1
+Cefuroxime,oral,8.91,8.91,100,1
+celecoxib,oral,6.03,6.03,100,1
+Cephalexin,oral,40.56,40.56,100,1
+ceritinib,oral,0,0,NaN,1
+certolizumab pegol,injection,0.01,0.01,100,1
+Cetirizine,oral,2.26,2.26,100,1
+cetrorelix,injection,0.03,0.03,100,1
+cevimeline,oral,0.18,0.18,100,1
+chlophedianol,oral,0,0,NaN,1
+Chlorambucil,oral,0,0,NaN,1
+chlorcyclizine,oral,0.01,0.01,100,1
+Chlordiazepoxide,oral,1.04,1.04,100,1
+Chlorhexidine,oral,11.91,11.91,100,2
+Chlorhexidine,Medicated Liquid Soap,0,11.91,0,2
+Chloroquine,oral,0.27,0.27,100,1
+Chlorothiazide,oral,0.03,0.03,100,2
+Chlorothiazide,injection,0,0.03,0,2
+chloroxylenol,otic,0.04,0.04,100,1
+Chlorpheniramine,Extended Release Suspension,6.45,7.08,91.1016949152542,2
+Chlorpheniramine,oral,0.63,7.08,8.89830508474576,2
+Chlorpromazine,oral,0.17,0.17,100,1
+Chlorpropamide,oral,0,0,NaN,1
+Chlorthalidone,oral,3.05,3.05,100,1
+Chlorzoxazone,oral,0.58,0.58,100,1
+Cholecalciferol,oral,1.73,1.73,100,1
+Cholestyramine Resin,oral,0.97,0.97,100,1
+Choline,oral,0,0,NaN,1
+Chorionic Gonadotropin,injection,0.41,0.41,100,1
+CHROMIUM PICOLINATE,oral,0,0,NaN,1
+ciclopirox,topical,2,2.56,78.125,2
+ciclopirox,Medicated Shampoo,0.56,2.56,21.875,2
+cilostazol,oral,0.24,0.24,100,1
+Cimetidine,oral,0.49,0.49,100,1
+cinacalcet,oral,0.17,0.17,100,1
+Cinnamon Bark,oral,0,0,NaN,1
+Ciprofloxacin,oral,39.78,50.4,78.9285714285714,3
+Ciprofloxacin,otic,6.88,50.4,13.6507936507937,3
+Ciprofloxacin,ophtalmic,3.74,50.4,7.42063492063492,3
+Citalopram,oral,19.6,19.6,100,1
+Citric Acid,oral,1.55,1.55,100,1
+Cladribine,injection,0,0,NaN,1
+Clarithromycin,oral,7.97,7.97,100,1
+Clavulanate,oral,66.62,66.62,100,2
+Clavulanate,injection,0,66.62,0,2
+Clemastine,oral,0.05,0.05,100,1
+clidinium,oral,0.69,0.69,100,1
+Clindamycin,oral,19.5,35.44,55.0225733634312,4
+Clindamycin,topical,14.84,35.44,41.8735891647856,4
+Clindamycin,vaginal,1.1,35.44,3.1038374717833,4
+Clindamycin,injection,0,35.44,0,4
+Clioquinol,topical,0.01,0.01,100,1
+clobazam,oral,0.11,0.11,100,1
+Clobetasol,topical,12.26,12.66,96.8404423380727,2
+Clobetasol,Medicated Shampoo,0.4,12.66,3.15955766192733,2
+clocortolone,topical,0.42,0.42,100,1
+Clomiphene,oral,0.88,0.88,100,1
+Clomipramine,oral,0.22,0.22,100,1
+Clonazepam,oral,14.48,14.48,100,1
+Clonidine,oral,4.73,5.09,92.9273084479371,2
+Clonidine,transdermal,0.36,5.09,7.07269155206287,2
+clopidogrel,oral,5.26,5.26,100,1
+clorazepate,oral,0.39,0.39,100,1
+Clotrimazole,topical,8.75,9.33,93.7834941050375,3
+Clotrimazole,Oral Lozenge,0.58,9.33,6.21650589496249,3
+Clotrimazole,vaginal,0,9.33,0,3
+Clozapine,oral,0.09,0.09,100,1
+Coal Tar,topical,0,0,NaN,1
+cobicistat,oral,0.19,0.19,100,1
+Codeine,oral,42.83,42.83,100,1
+coenzyme Q10,oral,0,0,NaN,1
+Colchicine,oral,2.89,2.89,100,1
+colesevelam,oral,1.22,1.22,100,1
+Colestipol,oral,0.39,0.41,95.1219512195122,2
+Colestipol,Oral Granules,0.02,0.41,4.8780487804878,2
+Colistin,otic,0.17,0.18,94.4444444444444,2
+Colistin,injection,0.01,0.18,5.55555555555556,2
+COLLAGENASE,topical,0.19,0.19,100,1
+collagenase Clostridium histolyticum,injection,0.02,0.02,100,1
+Copper Sulfate,oral,0.1,0.1,100,1
+Corticotropin,injection,0.03,0.03,100,1
+Cortisone,oral,0,0,NaN,1
+Cosyntropin,injection,0.22,0.22,100,1
+crizotinib,oral,0.01,0.01,100,1
+crofelemer,oral,0,0,NaN,1
+Cromolyn,ophtalmic,0.27,0.31,87.0967741935484,3
+Cromolyn,oral,0.02,0.31,6.45161290322581,3
+Cromolyn,inhalant,0.02,0.31,6.45161290322581,3
+crotamiton,topical,0.03,0.03,100,1
+Cupric oxide,oral,0.09,0.09,100,1
+cuprous oxide,oral,0.23,0.23,100,1
+cyclobenzaprine,oral,36.04,36.05,99.9722607489598,2
+cyclobenzaprine,topical,0.01,36.05,0.0277392510402219,2
+Cyclopentolate,ophtalmic,0.25,0.25,100,1
+Cyclophosphamide,oral,0.05,0.05,100,2
+Cyclophosphamide,injection,0,0.05,0,2
+Cyclosporine,ophtalmic,3.11,3.43,90.6705539358601,2
+Cyclosporine,oral,0.32,3.43,9.32944606413994,2
+Cyproheptadine,oral,1.11,1.11,100,1
+Cytarabine,injection,0.03,0.03,100,1
+D-BIOTIN,oral,0,0,NaN,1
+dabigatran etexilate,oral,0.39,0.39,100,1
+dabrafenib,oral,0.01,0.01,100,1
+Dactinomycin,injection,0,0,NaN,1
+dalfampridine,oral,0.1,0.1,100,1
+Danazol,oral,0.02,0.02,100,1
+Dantrolene,oral,0.02,0.02,100,1
+dapagliflozin,oral,0.78,0.78,100,1
+Dapsone,topical,2.63,2.79,94.2652329749104,2
+Dapsone,oral,0.16,2.79,5.73476702508961,2
+Daptomycin,injection,0,0,NaN,1
+darifenacin,oral,0.16,0.16,100,1
+darunavir,oral,0.18,0.18,100,1
+dasatinib,oral,0.04,0.04,100,1
+deferasirox,oral,0.02,0.02,100,1
+Demeclocycline,oral,0.01,0.01,100,1
+denosumab,injection,0,0,NaN,1
+Desipramine,oral,0.17,0.17,100,1
+desloratadine,oral,1.1,1.1,100,1
+desmopressin,oral,0.67,0.78,85.8974358974359,4
+desmopressin,nasal,0.11,0.78,14.1025641025641,4
+desmopressin,Nasal Solution,0,0.78,0,4
+desmopressin,injection,0,0.78,0,4
+Desogestrel,oral,5.85,5.85,100,1
+Desonide,topical,4.82,4.82,100,1
+Desoximetasone,topical,2.09,2.09,100,1
+Desvenlafaxine,oral,2.29,2.29,100,1
+Dexamethasone,ophtalmic,50.69,62.23,81.4558894423911,5
+Dexamethasone,otic,6.43,62.23,10.3326369918046,5
+Dexamethasone,oral,4.93,62.23,7.92222400771332,5
+Dexamethasone,injection,0.15,62.23,0.241041298409127,5
+Dexamethasone,topical,0.03,62.23,0.0482082596818255,5
+dexbrompheniramine,oral,0.02,0.02,100,1
+dexchlorpheniramine,oral,0.02,0.02,100,1
+dexlansoprazole,oral,2.64,2.64,100,1
+dexmethylphenidate,oral,3.84,3.84,100,1
+dexpanthenol,injection,0,0,NaN,1
+Dextroamphetamine,oral,22.07,22.07,100,1
+Dextromethorphan,oral,13.67,13.68,99.9269005847953,2
+Dextromethorphan,Extended Release Suspension,0.01,13.68,0.0730994152046784,2
+Diazepam,oral,13.69,13.69,100,1
+Diazoxide,oral,0,0,NaN,1
+dichloralphenazone,oral,0.44,0.44,100,1
+Diclofenac,oral,12.39,17.8,69.6067415730337,4
+Diclofenac,topical,4.75,17.8,26.685393258427,4
+Diclofenac,transdermal,0.44,17.8,2.47191011235955,4
+Diclofenac,ophtalmic,0.22,17.8,1.23595505617978,4
+Dicloxacillin,oral,0.8,0.8,100,1
+Dicyclomine,oral,5.85,5.85,100,1
+Didanosine,oral,0.01,0.01,100,1
+dienogest,oral,0.37,0.37,100,1
+Diethylpropion,oral,0.06,0.06,100,1
+Diflorasone,topical,0.2,0.2,100,1
+Diflunisal,oral,0.28,0.28,100,1
+difluprednate,ophtalmic,1.08,1.08,100,1
+Digoxin,oral,1.23,1.23,100,1
+dihydrocodeine,oral,0.01,0.01,100,1
+Dihydroergotamine,injection,0.13,0.23,56.5217391304348,2
+Dihydroergotamine,nasal,0.1,0.23,43.4782608695652,2
+Diltiazem,oral,4.72,4.72,100,1
+Dimenhydrinate,injection,0.06,0.06,100,1
+dimethicone,topical,0.02,0.02,100,1
+dimethyl fumarate,oral,0.44,0.44,100,1
+Dimethyl Sulfoxide,Irrigation Solution,0,0,NaN,1
+Diphenhydramine,injection,8.7,9.78,88.9570552147239,3
+Diphenhydramine,oral,1.08,9.78,11.0429447852761,3
+Diphenhydramine,topical,0,9.78,0,3
+Diphenoxylate,oral,2.66,2.66,100,1
+"diphtheria toxoid vaccine, inactivated",injection,0.39,0.39,100,1
+Dipyridamole,oral,0.18,0.18,100,1
+Disopyramide,oral,0.02,0.02,100,1
+Disulfiram,oral,0.18,0.18,100,1
+docetaxel,injection,0,0,NaN,1
+doconexent,oral,0.01,0.01,100,1
+Docosahexaenoate,oral,0.05,0.05,100,1
+Docusate,oral,0.65,0.65,100,1
+dofetilide,oral,0.11,0.11,100,1
+dolutegravir,oral,0.11,0.11,100,1
+donepezil,oral,0.3,0.3,100,1
+Dornase Alfa,inhalant,0.08,0.08,100,1
+dorzolamide,ophtalmic,0.85,0.85,100,1
+Doxazosin,oral,1.29,1.29,100,1
+Doxepin,oral,1.38,1.41,97.8723404255319,2
+Doxepin,topical,0.03,1.41,2.12765957446809,2
+Doxercalciferol,injection,0.23,0.24,95.8333333333333,2
+Doxercalciferol,oral,0.01,0.24,4.16666666666667,2
+Doxorubicin,injection,0,0,NaN,1
+doxorubicin liposome,injection,0,0,NaN,1
+Doxycycline,oral,32.53,32.53,100,2
+Doxycycline,injection,0,32.53,0,2
+Doxylamine,oral,0.41,0.41,100,1
+dronedarone,oral,0.19,0.19,100,1
+Droperidol,injection,0.04,0.04,100,1
+drospirenone,oral,6.95,6.95,100,1
+duloxetine,oral,12.91,12.91,100,1
+Dutasteride,oral,0.65,0.65,100,1
+Echothiophate,ophtalmic,0,0,NaN,1
+Econazole,topical,2.3,2.3,100,1
+efavirenz,oral,0.52,0.52,100,1
+efinaconazole,topical,0.35,0.35,100,1
+Eflornithine,topical,0.03,0.03,100,1
+EGG YOLK PHOSPHOLIPIDS,injection,0,0,NaN,1
+Eicosapentaenoate,oral,0.02,0.02,100,1
+eletriptan,oral,1.27,1.27,100,1
+eltrombopag,oral,0.01,0.01,100,1
+elvitegravir,oral,0.19,0.19,100,1
+empagliflozin,oral,0.15,0.15,100,1
+emtricitabine,oral,1.36,1.36,100,1
+Enalapril,oral,3.13,3.13,100,1
+Endopeptidases,oral,0.51,0.51,100,1
+enfuvirtide,injection,0,0,NaN,1
+Enoxaparin,injection,0.01,0.01,100,1
+entacapone,oral,0.06,0.06,100,1
+entecavir,oral,0.15,0.15,100,1
+enzalutamide,oral,0.01,0.01,100,1
+epinastine,ophtalmic,0.34,0.34,100,1
+Epinephrine,injection,2.61,2.61,100,1
+eplerenone,oral,0.16,0.16,100,1
+Epoetin Alfa,injection,0.04,0.04,100,1
+eprosartan,oral,0.02,0.02,100,1
+Ergocalciferol,oral,17.32,17.32,100,1
+"ergoloid mesylates, USP",oral,0,0,NaN,1
+Ergonovine,injection,0,0,NaN,1
+Ergotamine,rectal,0,0,NaN,2
+Ergotamine,oral,0,0,NaN,2
+erlotinib,oral,0.03,0.03,100,1
+ertapenem,injection,0.01,0.01,100,1
+Erwinia asparaginase,injection,0,0,NaN,1
+Erythromycin,ophtalmic,4.52,7.31,61.8331053351573,3
+Erythromycin,topical,1.48,7.31,20.2462380300958,3
+Erythromycin,oral,1.31,7.31,17.9206566347469,3
+Escitalopram,oral,22.09,22.09,100,1
+eslicarbazepine,oral,0.01,0.01,100,1
+Esomeprazole,oral,10.28,10.28,100,1
+Estazolam,oral,0.06,0.06,100,1
+Estradiol,oral,7.82,19.92,39.2570281124498,5
+Estradiol,vaginal,5.6,19.92,28.1124497991968,5
+Estradiol,transdermal,5.46,19.92,27.4096385542169,5
+Estradiol,topical,0.69,19.92,3.46385542168675,5
+Estradiol,injection,0.35,19.92,1.7570281124498,5
+"Estrogens, Conjugated (USP)",oral,4.3,6.63,64.8567119155354,3
+"Estrogens, Conjugated (USP)",vaginal,2.33,6.63,35.1432880844646,3
+"Estrogens, Conjugated (USP)",injection,0,6.63,0,3
+"Estrogens, Esterified (USP)",oral,0.94,0.94,100,1
+estropipate,oral,0.16,0.16,100,1
+Eszopiclone,oral,3.26,3.26,100,1
+Etanercept,injection,0.07,0.07,100,1
+Ethacrynate,oral,0.02,0.02,100,1
+Ethambutol,oral,0.04,0.04,100,1
+Ethinyl Estradiol,oral,103.97,109.86,94.6386309848899,3
+Ethinyl Estradiol,vaginal,4.64,109.86,4.22355725468778,3
+Ethinyl Estradiol,transdermal,1.25,109.86,1.13781176042236,3
+Ethosuximide,oral,0.1,0.1,100,1
+Ethyl Chloride,topical,0.02,0.02,100,1
+ethynodiol,oral,0.7,0.7,100,1
+Etodolac,oral,3.11,3.11,100,1
+Etonogestrel,vaginal,4.64,4.73,98.0972515856237,2
+Etonogestrel,Drug Implant,0.09,4.73,1.90274841437632,2
+Etoposide,injection,0.11,0.12,91.6666666666667,2
+Etoposide,oral,0.01,0.12,8.33333333333333,2
+etravirine,oral,0.05,0.05,100,1
+everolimus,oral,0.06,0.06,100,1
+exemestane,oral,0.25,0.25,100,1
+exenatide,injection,0.79,0.79,100,1
+ezetimibe,oral,4.52,4.52,100,1
+ezogabine,oral,0,0,NaN,1
+factor IX,injection,0,0,NaN,1
+Factor VIII,injection,0.05,0.05,100,1
+famciclovir,oral,1.3,1.3,100,1
+Famotidine,oral,3.91,3.91,100,2
+Famotidine,injection,0,3.91,0,2
+febuxostat,oral,0.61,0.61,100,1
+felbamate,oral,0.02,0.02,100,1
+Felodipine,oral,0.42,0.42,100,1
+Fenofibrate,oral,9.87,9.87,100,1
+Fenoprofen,oral,0.04,0.04,100,1
+Fentanyl,transdermal,1.8,1.85,97.2972972972973,5
+Fentanyl,Mucosal Spray,0.03,1.85,1.62162162162162,5
+Fentanyl,oral,0.01,1.85,0.54054054054054,5
+Fentanyl,Oral Lozenge,0.01,1.85,0.54054054054054,5
+Fentanyl,injection,0,1.85,0,5
+ferric carboxymaltose,injection,0,0,NaN,1
+"ferric oxide, saccharated",injection,0.01,0.01,100,1
+Ferrous Asparto Glycinate,oral,0.16,0.16,100,1
+ferrous bisglycinate,oral,0.04,0.04,100,1
+Ferrous fumarate,oral,16.36,16.36,100,1
+ferrous gluconate,oral,0.01,0.01,100,1
+ferrous sulfate,oral,0.17,0.17,100,1
+ferumoxytol,injection,0,0,NaN,1
+fesoterodine,oral,0.32,0.32,100,1
+fexofenadine,oral,0.43,0.43,100,1
+fidaxomicin,oral,0.03,0.03,100,1
+Filgrastim,injection,0.02,0.02,100,1
+Finasteride,oral,2.04,2.04,100,1
+fingolimod,oral,0.14,0.14,100,1
+Flavoxate,oral,0.05,0.05,100,1
+Flecainide,oral,0.69,0.69,100,1
+Fluconazole,oral,33.95,33.99,99.8823183289203,2
+Fluconazole,injection,0.04,33.99,0.117681671079729,2
+Fludrocortisone,oral,0.43,0.43,100,1
+Flumazenil,injection,0,0,NaN,1
+fluocinolone,Topical Oil,1.12,2.45,45.7142857142857,3
+fluocinolone,topical,0.83,2.45,33.8775510204082,3
+fluocinolone,otic,0.5,2.45,20.4081632653061,3
+Fluocinonide,topical,5.34,5.34,100,1
+Fluorometholone,ophtalmic,1.01,1.01,100,1
+Fluorouracil,topical,1.45,1.45,100,2
+Fluorouracil,injection,0,1.45,0,2
+Fluoxetine,oral,19.44,19.44,100,1
+Fluoxymesterone,oral,0,0,NaN,1
+Fluphenazine,oral,0.04,0.05,80,2
+Fluphenazine,injection,0.01,0.05,20,2
+Flurandrenolide,topical,0.28,0.44,63.6363636363636,2
+Flurandrenolide,Medicated Tape,0.16,0.44,36.3636363636364,2
+Flurazepam,oral,0.1,0.1,100,1
+Flurbiprofen,oral,0.17,0.2,85,2
+Flurbiprofen,ophtalmic,0.03,0.2,15,2
+Flutamide,oral,0.01,0.01,100,1
+fluticasone,topical,1.25,1.25,100,1
+fluvastatin,oral,0.11,0.11,100,1
+Fluvoxamine,oral,0.68,0.68,100,1
+Folic Acid,oral,8.26,8.26,100,2
+Folic Acid,injection,0,8.26,0,2
+Follicle Stimulating Hormone,injection,0.28,0.28,100,1
+Follitropin Alfa,injection,0.03,0.03,100,1
+follitropin beta,injection,0,0,NaN,1
+Formaldehyde,topical,0.04,0.04,100,1
+formic acid,oral,0.04,0.04,100,1
+formoterol,inhalant,0.1,0.1,100,1
+fosamprenavir,oral,0.02,0.02,100,1
+Fosaprepitant dimeglumine,injection,0,0,NaN,1
+Fosfomycin,oral,0.05,0.05,100,1
+Fosinopril,oral,0.44,0.44,100,1
+frovatriptan,oral,0.25,0.25,100,1
+Furosemide,oral,9.32,10.15,91.8226600985222,2
+Furosemide,injection,0.83,10.15,8.17733990147783,2
+gabapentin,oral,20.76,20.76,100,1
+Gadopentetate Dimeglumine,injection,3.22,3.22,100,1
+Galantamine,oral,0.01,0.01,100,1
+Ganciclovir,ophtalmic,0.14,0.14,100,1
+gatifloxacin,ophtalmic,0.8,0.8,100,1
+gemcitabine,injection,0,0,NaN,1
+Gemfibrozil,oral,1.95,1.95,100,1
+gemifloxacin,oral,0.02,0.02,100,1
+Gentamicin Sulfate (USP),ophtalmic,3.26,3.7,88.1081081081081,3
+Gentamicin Sulfate (USP),topical,0.41,3.7,11.0810810810811,3
+Gentamicin Sulfate (USP),injection,0.03,3.7,0.810810810810811,3
+glimepiride,oral,5.06,5.06,100,1
+Glipizide,oral,5.64,5.64,100,1
+Glucagon,injection,1.41,1.41,100,1
+Glucose,oral,0.56,0.56,100,3
+Glucose,Oral Gel,0,0.56,0,3
+Glucose,injection,0,0.56,0,3
+Glyburide,oral,2.88,2.88,100,1
+Glycerin,injection,0,0,NaN,1
+Glycopyrrolate,oral,0.52,0.52,100,2
+Glycopyrrolate,injection,0,0.52,0,2
+golimumab,injection,0,0,NaN,1
+Goserelin,Drug Implant,0,0,NaN,1
+Gramicidin,ophtalmic,0.11,0.11,100,1
+Granisetron,injection,0.36,0.45,80,3
+Granisetron,oral,0.05,0.45,11.1111111111111,3
+Granisetron,transdermal,0.04,0.45,8.88888888888889,3
+Griseofulvin,oral,0.68,0.68,100,1
+Guaifenesin,oral,16.78,16.78,100,1
+Guanfacine,oral,2.69,2.69,100,1
+Halcinonide,topical,0.2,0.2,100,1
+halobetasol,topical,0.89,0.89,100,1
+Haloperidol,oral,0.23,0.25,92,2
+Haloperidol,injection,0.02,0.25,8,2
+heme iron polypeptide,oral,0.02,0.02,100,1
+"heparin, porcine",injection,0.12,0.12,100,1
+Hepatitis A Vaccine (Inactivated) Strain HM175,injection,0.08,0.08,100,1
+"Hepatitis A Vaccine, Inactivated",injection,0.01,0.01,100,1
+Hepatitis B Surface Antigen Vaccine,injection,0.08,0.08,100,1
+Hexachlorophene,Medicated Liquid Soap,0,0,NaN,1
+histrelin,Drug Implant,0.01,0.01,100,1
+homatropine,oral,6.81,6.85,99.4160583941606,2
+homatropine,ophtalmic,0.04,6.85,0.583941605839416,2
+hyaluronate,injection,0.57,0.65,87.6923076923077,2
+hyaluronate,topical,0.08,0.65,12.3076923076923,2
+Hydralazine,oral,1.45,2.12,68.3962264150943,2
+Hydralazine,injection,0.67,2.12,31.6037735849057,2
+Hydrochlorothiazide,oral,66.83,66.83,100,1
+Hydrocodone,oral,128.36,134.81,95.2154884652474,2
+Hydrocodone,Extended Release Suspension,6.45,134.81,4.78451153475261,2
+Hydrocortisone,topical,10.75,25.68,41.8613707165109,7
+Hydrocortisone,otic,6.74,25.68,26.2461059190031,7
+Hydrocortisone,rectal,6.65,25.68,25.8956386292835,7
+Hydrocortisone,oral,0.61,25.68,2.37538940809969,7
+Hydrocortisone,injection,0.6,25.68,2.33644859813084,7
+Hydrocortisone,ophtalmic,0.24,25.68,0.934579439252337,7
+Hydrocortisone,Enema,0.09,25.68,0.350467289719626,7
+Hydromorphone,injection,15.95,18.65,85.5227882037534,3
+Hydromorphone,oral,2.7,18.65,14.4772117962466,3
+Hydromorphone,rectal,0,18.65,0,3
+hydroquinone,topical,0.14,0.14,100,1
+Hydroxocobalamin,injection,0.01,0.01,100,1
+Hydroxychloroquine,oral,3.14,3.14,100,1
+Hydroxyprogesterone,injection,0.06,0.06,100,1
+hydroxypropylcellulose,Drug Implant,0.01,0.01,100,1
+hydroxyurea,oral,0.16,0.16,100,1
+Hydroxyzine,oral,12.3,12.35,99.5951417004049,2
+Hydroxyzine,injection,0.05,12.35,0.404858299595142,2
+Hyoscyamine,oral,3.07,4.87,63.0390143737166,2
+Hyoscyamine,Sublingual Tablet,1.8,4.87,36.9609856262834,2
+Ibandronate,oral,0.82,0.82,100,2
+Ibandronate,injection,0,0.82,0,2
+Ibrutinib,oral,0.02,0.02,100,1
+Ibuprofen,oral,53.57,53.68,99.7950819672131,3
+Ibuprofen,injection,0.11,53.68,0.204918032786885,3
+Ibuprofen,topical,0,53.68,0,3
+icosapent ethyl,oral,0.32,0.32,100,1
+idelalisib,oral,0,0,NaN,1
+iloperidone,oral,0.03,0.03,100,1
+imatinib,oral,0.08,0.08,100,1
+Imipramine,oral,0.52,0.52,100,1
+imiquimod,topical,1.74,1.74,100,1
+Immunoglobulin G,injection,0.3,0.3,100,1
+incobotulinumtoxin A,injection,0,0,NaN,1
+indacaterol,inhalant,0.01,0.01,100,1
+Indapamide,oral,0.4,0.4,100,1
+Indinavir,oral,0,0,NaN,1
+Indomethacin,oral,4.29,4.29,100,2
+Indomethacin,rectal,0,4.29,0,2
+Inert Ingredients,oral,43.02,43.02,100,1
+infliximab,injection,0.97,0.97,100,1
+"Influenza A virus vaccine, A-California-7-2009 (H1N1)-like virus",injection,4.59,5.18,88.6100386100386,2
+"Influenza A virus vaccine, A-California-7-2009 (H1N1)-like virus",nasal,0.59,5.18,11.3899613899614,2
+"Influenza A virus vaccine, A-Victoria-361-2011 (H3N2)-like virus",injection,4.59,5.18,88.6100386100386,2
+"Influenza A virus vaccine, A-Victoria-361-2011 (H3N2)-like virus",nasal,0.59,5.18,11.3899613899614,2
+"Influenza B virus vaccine, B-Brisbane-60-2008-like virus",injection,1.17,1.17,100,1
+"Influenza B virus vaccine, B-Massachusetts-2-2012-like virus",injection,4.59,5.18,88.6100386100386,2
+"Influenza B virus vaccine, B-Massachusetts-2-2012-like virus",nasal,0.59,5.18,11.3899613899614,2
+"Influenza Virus Vaccine, Live Attenuated, B-Brisbane-60-2008 strain",nasal,0.59,0.59,100,1
+ingenol mebutate,topical,0.28,0.28,100,1
+insulin detemir,injection,1.54,1.54,100,1
+Insulin Glargine,injection,2.22,2.22,100,1
+Insulin Lispro,injection,1.75,1.75,100,1
+"Insulin, Aspart Protamine, Human",injection,0.1,0.1,100,1
+"Insulin, Aspart, Human",injection,1.8,1.8,100,1
+"Insulin, Glulisine, Human",injection,0.18,0.18,100,1
+"Insulin, Protamine Lispro, Human",injection,0.09,0.09,100,1
+Interferon Alfa-2b,injection,0.01,0.01,100,1
+Interferon beta-1a,injection,0.01,0.01,100,1
+interferon beta-1b,injection,0.06,0.06,100,1
+Iodine,oral,0,0,NaN,1
+Iodoquinol,topical,0.23,0.23,100,1
+Ipratropium,inhalant,1.58,1.58,100,1
+irbesartan,oral,2.09,2.09,100,1
+irinotecan,injection,0.16,0.16,100,1
+Iron-Dextran Complex,oral,0.04,0.04,100,2
+Iron-Dextran Complex,injection,0,0.04,0,2
+Iron Carbonyl,oral,0.38,0.38,100,1
+Isoetharine,inhalant,0,0,NaN,1
+isometheptene,oral,0.49,0.49,100,1
+isoniazid,oral,0.21,0.21,100,1
+Isopropyl Alcohol,topical,0.65,0.65,100,1
+isopropyl unoprostone,ophtalmic,0,0,NaN,1
+Isosorbide,oral,1.38,1.38,100,1
+Isosorbide Dinitrate,oral,0.15,0.15,100,1
+Isotretinoin,oral,2.57,2.57,100,1
+Isoxsuprine,oral,0,0,NaN,1
+Isradipine,oral,0.02,0.02,100,1
+Itraconazole,oral,0.25,0.25,100,1
+ivacaftor,oral,0,0,NaN,1
+Ivermectin,oral,0.32,0.53,60.377358490566,2
+Ivermectin,topical,0.21,0.53,39.622641509434,2
+Ketoconazole,topical,5.16,10.32,50,3
+Ketoconazole,Medicated Shampoo,4.15,10.32,40.2131782945737,3
+Ketoconazole,oral,1.01,10.32,9.78682170542636,3
+Ketoprofen,oral,0.41,0.41,100,1
+Ketorolac,injection,35.41,39.97,88.591443582687,3
+Ketorolac,oral,3.45,39.97,8.6314736052039,3
+Ketorolac,ophtalmic,1.11,39.97,2.77708281210908,3
+Ketotifen,ophtalmic,0.03,0.03,100,1
+"L1 protein, Human papillomavirus type 11 Vaccine",injection,0.06,0.06,100,1
+"L1 protein, Human papillomavirus type 16 Vaccine",injection,0.06,0.06,100,1
+"L1 protein, Human papillomavirus type 18 Vaccine",injection,0.06,0.06,100,1
+"L1 protein, Human papillomavirus type 6 Vaccine",injection,0.06,0.06,100,1
+Labetalol,oral,1.75,1.75,100,1
+lacosamide,oral,0.32,0.32,100,2
+lacosamide,injection,0,0.32,0,2
+Lactate,topical,1.03,1.03,100,1
+Lactobacillus rhamnosus GG,Oral Granules,0,0,NaN,1
+Lactulose,oral,1.17,1.17,100,1
+Lamivudine,oral,0.27,0.27,100,1
+lamotrigine,oral,7.89,7.89,100,1
+Lanolin,topical,0,0,NaN,1
+lansoprazole,oral,6.03,6.03,100,1
+lanthanum carbonate,oral,0.03,0.03,100,1
+lapatinib,oral,0.01,0.01,100,1
+latanoprost,ophtalmic,2.33,2.33,100,1
+ledipasvir,oral,0.08,0.08,100,1
+leflunomide,oral,0.47,0.47,100,1
+lenalidomide,oral,0.09,0.09,100,1
+"Lente Insulin, Beef-Pork",injection,0,0,NaN,1
+letrozole,oral,0.93,0.93,100,1
+Leucovorin,injection,0.24,0.41,58.5365853658537,2
+Leucovorin,oral,0.17,0.41,41.4634146341463,2
+Leuprolide,injection,0.56,0.56,100,1
+Levalbuterol,inhalant,1.4,1.4,100,1
+Levetiracetam,oral,2.67,2.67,100,1
+Levobunolol,ophtalmic,0.03,0.03,100,1
+Levocarnitine,oral,0.11,0.11,100,1
+levocetirizine,oral,4.72,4.72,100,1
+Levodopa,oral,0.57,0.57,100,1
+Levofloxacin,oral,24.06,24.08,99.9169435215947,3
+Levofloxacin,ophtalmic,0.02,24.08,0.0830564784053156,3
+Levofloxacin,injection,0,24.08,0,3
+Levomefolic Acid,oral,1.96,1.96,100,1
+levomilnacipran,oral,0.4,0.4,100,1
+Levonorgestrel,oral,12.73,13.31,95.6423741547708,3
+Levonorgestrel,Drug Implant,0.46,13.31,3.45604808414726,3
+Levonorgestrel,transdermal,0.12,13.31,0.901577761081893,3
+Levorphanol,oral,0,0,NaN,1
+levothyroxine,oral,62.74,62.74,100,1
+Lidocaine,injection,11.06,22.28,49.6409335727109,6
+Lidocaine,topical,4.19,22.28,18.8061041292639,6
+Lidocaine,Mucous Membrane Topical Solution,3.76,22.28,16.8761220825853,6
+Lidocaine,transdermal,2.81,22.28,12.6122082585278,6
+Lidocaine,oral,0.3,22.28,1.34649910233393,6
+Lidocaine,rectal,0.16,22.28,0.718132854578097,6
+linaclotide,oral,1.41,1.41,100,1
+Linagliptin,oral,0.75,0.75,100,1
+Lincomycin,injection,1.67,1.67,100,1
+Lindane,topical,0.04,0.07,57.1428571428571,2
+Lindane,Medicated Shampoo,0.03,0.07,42.8571428571428,2
+linezolid,oral,0.16,0.16,100,1
+Lipase,oral,0.51,0.51,100,1
+Lisdexamfetamine,oral,9.92,9.92,100,1
+Lisinopril,oral,57.62,57.62,100,1
+Lithium Carbonate,oral,1.69,1.69,100,1
+lithium citrate,oral,0.01,0.01,100,1
+liver stomach concentrate,oral,0.11,0.11,100,1
+Lodoxamide,ophtalmic,0.01,0.01,100,1
+lomitapide,oral,0,0,NaN,1
+Lomustine,oral,0.01,0.01,100,1
+Loperamide,oral,0.37,0.37,100,1
+lopinavir,oral,0.06,0.06,100,1
+Loratadine,oral,1.03,1.03,100,1
+Lorazepam,oral,16.46,16.46,100,2
+Lorazepam,injection,0,16.46,0,2
+lorcaserin,oral,0.39,0.39,100,1
+Losartan,oral,24.48,24.48,100,1
+loteprednol etabonate,ophtalmic,3.28,3.28,100,1
+Lovastatin,oral,3.74,3.74,100,1
+Loxapine,oral,0.02,0.02,100,1
+lubiprostone,oral,0.78,0.78,100,1
+luliconazole,topical,0.14,0.14,100,1
+lumefantrine,oral,0.01,0.01,100,1
+lurasidone,oral,0.79,0.79,100,1
+Luteinizing Hormone,injection,0.28,0.28,100,1
+Macitentan,oral,0.01,0.01,100,1
+magnesium citrate,oral,0.07,0.07,100,1
+Magnesium Hydroxide,oral,0.32,0.32,100,1
+Magnesium Oxide,oral,1.76,1.76,100,1
+Magnesium Salicylate,oral,0,0,NaN,1
+Magnesium Sulfate,oral,6.75,6.75,100,2
+Magnesium Sulfate,injection,0,6.75,0,2
+Malathion,topical,0.23,0.23,100,1
+manganese sulfate,oral,0.07,0.07,100,1
+Maprotiline,oral,0,0,NaN,1
+maraviroc,oral,0.02,0.02,100,1
+"Measles Virus Vaccine Live, Enders' attenuated Edmonston strain",injection,0.05,0.05,100,1
+Mebendazole,oral,0,0,NaN,1
+mecasermin,injection,0,0,NaN,1
+Mechlorethamine,topical,0,0,NaN,1
+Meclizine,oral,4.56,4.56,100,1
+Meclofenamate,oral,0.02,0.02,100,1
+Medroxyprogesterone,oral,5.17,6.34,81.5457413249211,2
+Medroxyprogesterone,injection,1.17,6.34,18.4542586750789,2
+Mefenamate,oral,0.14,0.14,100,1
+Mefloquine,oral,0.59,0.59,100,1
+Megestrol,oral,0.39,0.39,100,1
+meloxicam,oral,25.66,25.66,100,1
+Melphalan,oral,0,0,NaN,1
+Memantine,oral,0.26,0.26,100,1
+meningococcal group A polysaccharide,injection,0.01,0.01,100,1
+meningococcal group C polysaccharide,injection,0.01,0.01,100,1
+MENINGOCOCCAL POLYSACCHARIDE VACCINE GROUP W-135,injection,0.01,0.01,100,1
+MENINGOCOCCAL POLYSACCHARIDE VACCINE GROUP Y,injection,0.01,0.01,100,1
+Menthol,transdermal,0.11,0.11,100,2
+Menthol,topical,0,0.11,0,2
+Mepenzolate,oral,0,0,NaN,1
+Meperidine,injection,4.37,5.11,85.5185909980431,2
+Meperidine,oral,0.74,5.11,14.4814090019569,2
+Meprobamate,oral,0.01,0.01,100,1
+mercaptopurine,oral,0.38,0.38,100,1
+meropenem,injection,0,0,NaN,1
+mesalamine,oral,2.23,2.86,77.972027972028,3
+mesalamine,rectal,0.4,2.86,13.986013986014,3
+mesalamine,Enema,0.23,2.86,8.04195804195804,3
+Mesna,injection,0.03,0.03,100,2
+Mesna,oral,0,0.03,0,2
+Mestranol,oral,0.1,0.1,100,1
+Metaraminol,injection,0,0,NaN,1
+metaxalone,oral,3.51,3.51,100,1
+Metformin,oral,40.71,40.71,100,1
+Methadone,oral,0.61,0.62,98.3870967741936,2
+Methadone,injection,0.01,0.62,1.61290322580645,2
+Methamphetamine,oral,0.01,0.01,100,1
+Methazolamide,oral,0.03,0.03,100,1
+Methenamine,oral,0.74,0.74,100,1
+Methimazole,oral,1.03,1.03,100,1
+Methocarbamol,oral,7.36,7.36,100,1
+Methotrexate,oral,2.66,3.27,81.3455657492355,2
+Methotrexate,injection,0.61,3.27,18.6544342507645,2
+Methoxsalen,oral,0.01,0.01,100,1
+Methscopolamine,oral,0.1,0.1,100,1
+methsuximide,oral,0,0,NaN,1
+Methyclothiazide,oral,0,0,NaN,1
+methyl salicylate,topical,0,0,NaN,1
+Methyldopa,oral,0.37,0.37,100,1
+Methylene blue,oral,0.66,0.66,100,1
+Methylergonovine,oral,0.32,0.46,69.5652173913043,2
+Methylergonovine,injection,0.14,0.46,30.4347826086957,2
+methylnaltrexone,injection,0.03,0.03,100,1
+Methylphenidate,oral,12.82,13.61,94.1954445260838,3
+Methylphenidate,transdermal,0.5,13.61,3.67376928728876,3
+Methylphenidate,Extended Release Suspension,0.29,13.61,2.13078618662748,3
+Methylprednisolone,injection,43.3,82.28,52.6251823043267,2
+Methylprednisolone,oral,38.98,82.28,47.3748176956733,2
+Methyltestosterone,oral,0.87,0.87,100,1
+Metipranolol,ophtalmic,0,0,NaN,1
+Metoclopramide,injection,5.45,8.57,63.5939323220537,2
+Metoclopramide,oral,3.12,8.57,36.4060676779463,2
+Metolazone,oral,0.35,0.35,100,1
+Metoprolol,oral,28.6,28.6,100,1
+Metronidazole,oral,17.57,25.73,68.2860474154683,4
+Metronidazole,vaginal,4.36,25.73,16.9452001554606,4
+Metronidazole,topical,3.68,25.73,14.3023707734162,4
+Metronidazole,injection,0.12,25.73,0.466381655654878,4
+Mexiletine,oral,0.04,0.04,100,1
+Miconazole,topical,0.09,0.1,90,3
+Miconazole,vaginal,0.01,0.1,10,3
+Miconazole,oral,0,0.1,0,3
+Midazolam,injection,33.29,33.31,99.9399579705794,2
+Midazolam,oral,0.02,33.31,0.0600420294205944,2
+Midodrine,oral,0.27,0.27,100,1
+Mifepristone,oral,0.18,0.18,100,1
+miglitol,oral,0.01,0.01,100,1
+milnacipran,oral,0.53,0.53,100,1
+Milrinone,injection,0.01,0.01,100,1
+Minocycline,oral,8.14,8.32,97.8365384615385,2
+Minocycline,Oral Powder,0.18,8.32,2.16346153846154,2
+Minoxidil,oral,0.17,0.17,100,1
+mirabegron,oral,0.44,0.44,100,1
+Mirtazapine,oral,2.64,2.64,100,1
+Misoprostol,oral,2.17,2.17,100,1
+Mitomycin,ophtalmic,0.01,0.01,100,1
+Mitotane,oral,0,0,NaN,1
+modafinil,oral,0.95,0.95,100,1
+moexipril,oral,0.14,0.14,100,1
+Mometasone,topical,3.93,3.93,100,1
+montelukast,oral,25.63,25.96,98.728813559322,2
+montelukast,Oral Granules,0.33,25.96,1.27118644067797,2
+Morphine,injection,13.47,15.92,84.6105527638191,2
+Morphine,oral,2.45,15.92,15.3894472361809,2
+moxifloxacin,ophtalmic,5.38,7.05,76.3120567375886,2
+moxifloxacin,oral,1.67,7.05,23.6879432624113,2
+"Mumps Virus Vaccine Live, Jeryl Lynn Strain",injection,0.05,0.05,100,1
+Mupirocin,topical,18.08,18.37,98.421339139902,2
+Mupirocin,Nasal Ointment,0.29,18.37,1.57866086009799,2
+mycophenolate mofetil,oral,0.86,0.86,100,1
+Mycophenolic Acid,oral,0.19,0.19,100,1
+nabumetone,oral,3.01,3.01,100,1
+Nadolol,oral,0.83,0.83,100,1
+Nafarelin,nasal,0,0,NaN,1
+naftifine,topical,0.61,0.61,100,1
+Nalbuphine,injection,0.4,0.4,100,1
+Naloxone,Oral Strip,1.29,2.23,57.847533632287,5
+Naloxone,Sublingual Tablet,0.54,2.23,24.2152466367713,5
+Naloxone,injection,0.27,2.23,12.1076233183857,5
+Naloxone,oral,0.13,2.23,5.82959641255605,5
+Naloxone,Buccal Film,0,2.23,0,5
+Naltrexone,oral,0.48,0.53,90.5660377358491,2
+Naltrexone,injection,0.05,0.53,9.43396226415094,2
+Naphazoline,ophtalmic,0.02,0.02,100,1
+Naproxen,oral,28.17,28.18,99.9645138396026,2
+Naproxen,topical,0.01,28.18,0.035486160397445,2
+naratriptan,oral,0.44,0.44,100,1
+natalizumab,injection,0.02,0.02,100,1
+Natamycin,ophtalmic,0,0,NaN,1
+nateglinide,oral,0.16,0.16,100,1
+nebivolol,oral,4.16,4.16,100,1
+Nedocromil,ophtalmic,0.02,0.02,100,1
+nefazodone,oral,0.11,0.11,100,1
+Neisseria meningitidis serogroup A capsular polysaccharide diphtheria toxoid protein conjugate vaccine,injection,0.07,0.07,100,1
+Neisseria meningitidis serogroup A oligosaccharide diphtheria CRM197 protein conjugate vaccine,injection,0.06,0.06,100,1
+Neisseria meningitidis serogroup C capsular polysaccharide diphtheria toxoid protein conjugate vaccine,injection,0.07,0.07,100,1
+Neisseria meningitidis serogroup C oligosaccharide diphtheria CRM197 protein conjugate vaccine,injection,0.06,0.06,100,1
+Neisseria meningitidis serogroup W-135 capsular polysaccharide diphtheria toxoid protein conjugate vaccine,injection,0.07,0.07,100,1
+Neisseria meningitidis serogroup W-135 oligosaccharide diphtheria CRM197 protein conjugate vaccine,injection,0.06,0.06,100,1
+Neisseria meningitidis serogroup Y capsular polysaccharide diphtheria toxoid protein conjugate vaccine,injection,0.07,0.07,100,1
+Neisseria meningitidis serogroup Y oligosaccharide diphtheria CRM197 protein conjugate vaccine,injection,0.06,0.06,100,1
+Nelfinavir,oral,0.01,0.01,100,1
+Neomycin,otic,6.02,9.7,62.0618556701031,4
+Neomycin,ophtalmic,3.41,9.7,35.1546391752577,4
+Neomycin,oral,0.23,9.7,2.37113402061856,4
+Neomycin,topical,0.04,9.7,0.412371134020619,4
+Neostigmine,injection,6.27,6.27,100,1
+nepafenac,ophtalmic,0.64,0.64,100,1
+Nevirapine,oral,0.08,0.08,100,1
+Niacin,oral,5.78,5.78,100,1
+Niacinamide,oral,0.28,0.28,100,2
+Niacinamide,injection,0,0.28,0,2
+Nicardipine,oral,0.01,0.01,100,1
+Nicotine,transdermal,0.84,0.96,87.5,3
+Nicotine,Chewing Gum,0.09,0.96,9.375,3
+Nicotine,Oral Lozenge,0.03,0.96,3.125,3
+Nifedipine,oral,2.8,2.8,100,1
+nilotinib,oral,0.02,0.02,100,1
+nilutamide,oral,0,0,NaN,1
+Nimodipine,oral,0.01,0.01,100,1
+Nisoldipine,oral,0.1,0.1,100,1
+nitazoxanide,oral,0.11,0.11,100,1
+Nitrofurantoin,oral,15.35,15.35,100,1
+Nitroglycerin,Sublingual Tablet,2.64,3.16,83.5443037974684,6
+Nitroglycerin,Mucosal Spray,0.15,3.16,4.74683544303797,6
+Nitroglycerin,transdermal,0.13,3.16,4.11392405063291,6
+Nitroglycerin,Rectal Ointment,0.12,3.16,3.79746835443038,6
+Nitroglycerin,topical,0.11,3.16,3.48101265822785,6
+Nitroglycerin,oral,0.01,3.16,0.316455696202532,6
+Nizatidine,oral,0.2,0.2,100,1
+Nonoxynol-9,vaginal,0,0,NaN,1
+norelgestromin,transdermal,1.25,1.25,100,1
+Norethindrone,oral,32.57,33.01,98.6670705846713,2
+Norethindrone,transdermal,0.44,33.01,1.33292941532869,2
+Norfloxacin,oral,0.01,0.01,100,1
+norgestimate,oral,42.11,42.11,100,1
+Norgestrel,oral,2.31,2.31,100,1
+Nortriptyline,oral,2.73,2.73,100,1
+"NPH Insulin, Human",injection,0.81,0.81,100,1
+Nystatin,topical,10.34,14.06,73.5419630156472,2
+Nystatin,oral,3.72,14.06,26.4580369843528,2
+Octreotide,injection,0.08,0.08,100,1
+Ofloxacin,otic,3.17,6.28,50.4777070063694,3
+Ofloxacin,ophtalmic,3.09,6.28,49.203821656051,3
+Ofloxacin,oral,0.02,6.28,0.318471337579618,3
+olanzapine,oral,1.38,1.38,100,1
+olmesartan,oral,6.5,6.5,100,1
+olopatadine,ophtalmic,5.05,5.05,100,1
+olsalazine,oral,0.01,0.01,100,1
+omalizumab,injection,0.17,0.17,100,1
+Omega-3 Acid Ethyl Esters (USP),oral,3.78,3.78,100,1
+Omeprazole,oral,39.54,39.54,100,1
+onabotulinumtoxinA,injection,0.25,0.25,100,1
+Ondansetron,oral,38.4,38.43,99.9219359875098,3
+Ondansetron,Oral Strip,0.02,38.43,0.0520426749934947,3
+Ondansetron,injection,0.01,38.43,0.0260213374967473,3
+Opium,rectal,0.03,0.05,60,2
+Opium,oral,0.02,0.05,40,2
+Oprelvekin,injection,0,0,NaN,1
+orlistat,oral,0.04,0.04,100,1
+Orphenadrine,oral,1,1.01,99.009900990099,2
+Orphenadrine,injection,0.01,1.01,0.99009900990099,2
+Oseltamivir,oral,20.07,20.07,100,1
+Ospemifene,oral,0.32,0.32,100,1
+oxaliplatin,injection,0,0,NaN,1
+Oxandrolone,oral,0.02,0.02,100,1
+oxaprozin,oral,0.44,0.44,100,1
+Oxazepam,oral,0.13,0.13,100,1
+oxcarbazepine,oral,1.56,1.56,100,1
+oxiconazole,topical,0.35,0.35,100,1
+oxybutynin,oral,2.92,2.96,98.6486486486486,3
+oxybutynin,topical,0.03,2.96,1.01351351351351,3
+oxybutynin,transdermal,0.01,2.96,0.337837837837838,3
+Oxycodone,oral,51.9,51.9,100,1
+Oxymetazoline,nasal,0,0,NaN,1
+Oxymetholone,oral,0,0,NaN,1
+Oxymorphone,oral,0.63,0.63,100,2
+Oxymorphone,injection,0,0.63,0,2
+Oxyquinoline,vaginal,0.03,0.03,100,1
+Oxytocin,injection,0,0,NaN,1
+Paclitaxel,injection,0,0,NaN,1
+paliperidone,oral,0.11,0.11,100,1
+palivizumab,injection,0.09,0.09,100,1
+palonosetron,injection,0,0,NaN,1
+pantoprazole,oral,16.15,17.86,90.4255319148936,3
+pantoprazole,injection,1.7,17.86,9.51847704367301,3
+pantoprazole,Oral Granules,0.01,17.86,0.0559910414333707,3
+pantothenate,oral,0.23,0.23,100,1
+Pantothenic Acid,oral,0.05,0.05,100,1
+Papaverine,injection,0.03,0.03,100,1
+paregoric,oral,0.01,0.01,100,1
+paricalcitol,oral,0.07,0.07,100,1
+Paromomycin,oral,0.01,0.01,100,1
+Paroxetine,oral,7.86,7.86,100,1
+pazopanib,oral,0.02,0.02,100,1
+pegaspargase,injection,0.01,0.01,100,1
+peginterferon alfa-2a,injection,0,0,NaN,1
+peginterferon alfa-2b,injection,0,0,NaN,1
+pegvisomant,injection,0,0,NaN,1
+Penbutolol,oral,0,0,NaN,1
+penciclovir,topical,0.44,0.44,100,1
+Penicillamine,oral,0,0,NaN,1
+Penicillin V,oral,13.31,13.31,100,1
+Pentamidine,injection,0,0,NaN,2
+Pentamidine,inhalant,0,0,NaN,2
+Pentazocine,oral,0.13,0.13,100,2
+Pentazocine,injection,0,0.13,0,2
+Pentobarbital,injection,0.04,0.04,100,1
+Pentosan Polysulfate,oral,0.35,0.35,100,1
+Pentoxifylline,oral,0.18,0.18,100,1
+perampanel,oral,0.01,0.01,100,1
+Perindopril,oral,0.05,0.05,100,1
+Permethrin,topical,2.68,2.68,100,1
+Perphenazine,oral,0.13,0.13,100,1
+Peruvian balsam,topical,0.03,0.03,100,1
+Petrolatum,topical,0.09,0.09,100,1
+Phenazopyridine,oral,9.39,9.39,100,1
+phendimetrazine,oral,0.09,0.09,100,1
+Phenelzine,oral,0.02,0.02,100,1
+Phenobarbital,oral,0.61,0.62,98.3870967741936,2
+Phenobarbital,injection,0.01,0.62,1.61290322580645,2
+Phenoxybenzamine,oral,0,0,NaN,1
+Phentermine,oral,2.56,2.56,100,1
+Phentolamine,injection,0.02,0.02,100,1
+phenyl salicylate,oral,0.66,0.66,100,1
+Phenylephrine,oral,1.67,1.68,99.4047619047619,2
+Phenylephrine,ophtalmic,0.01,1.68,0.595238095238095,2
+Phenylpropanolamine,oral,0,0,NaN,1
+phenyltoloxamine,oral,0,0,NaN,1
+Phenytoin,oral,0.73,0.73,100,1
+Phytosterols,oral,0.01,0.01,100,1
+picosulfate sodium,oral,1.49,1.49,100,1
+Pilocarpine,oral,0.19,0.26,73.0769230769231,2
+Pilocarpine,ophtalmic,0.07,0.26,26.9230769230769,2
+Pimecrolimus,topical,1,1,100,1
+Pimozide,oral,0.02,0.02,100,1
+Pindolol,oral,0.07,0.07,100,1
+pioglitazone,oral,2.85,2.85,100,1
+Piperacillin,injection,0,0,NaN,1
+Piroxicam,oral,0.71,0.71,100,1
+pitavastatin,oral,0.64,0.64,100,1
+plant stanol ester,oral,0,0,NaN,1
+Plerixafor,injection,0,0,NaN,1
+pneumococcal capsular polysaccharide type 1 vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 10A vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 11A vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 12F vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 14 vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 15B vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 17F vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 18C vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 19A vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 19F vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 2 vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 20 vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 22F vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 23F vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 3 vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 33F vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 4 vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 5 vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 6B vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 7F vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 8 vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 9N vaccine,injection,0.47,0.47,100,1
+pneumococcal capsular polysaccharide type 9V vaccine,injection,0.47,0.47,100,1
+podofilox,topical,0.3,0.3,100,1
+podophyllin,topical,0,0,NaN,1
+"poliovirus vaccine inactivated, type 1 (Mahoney)",injection,0.01,0.01,100,1
+"poliovirus vaccine inactivated, type 2 (MEF-1)",injection,0.01,0.01,100,1
+"poliovirus vaccine inactivated, type 3 (Saukett)",injection,0.01,0.01,100,1
+Poloxamer,topical,0,0,NaN,1
+POLYETHYLENE GLYCOL 3350,oral,14.7,14.7,100,1
+Polymyxin B,ophtalmic,9.53,15.41,61.8429591174562,4
+Polymyxin B,otic,5.85,15.41,37.9623621025308,4
+Polymyxin B,topical,0.03,15.41,0.194678780012979,4
+Polymyxin B,injection,0,15.41,0,4
+Polysaccharide iron complex,oral,0.49,0.49,100,1
+Polyvinyl Alcohol,ophtalmic,0,0,NaN,1
+pomalidomide,oral,0.01,0.01,100,1
+ponatinib,oral,0,0,NaN,1
+posaconazole,oral,0.02,0.02,100,1
+potassium bicarbonate,Effervescent Oral Tablet,0.04,0.04,100,2
+potassium bicarbonate,oral,0,0.04,0,2
+Potassium Chloride,oral,21.59,22.76,94.8594024604569,3
+Potassium Chloride,injection,1.17,22.76,5.14059753954306,3
+Potassium Chloride,Effervescent Oral Tablet,0,22.76,0,3
+potassium citrate,oral,0.74,0.74,100,1
+Potassium Iodide,oral,0.29,0.29,100,1
+potassium nitrate,Toothpaste,0.62,0.63,98.4126984126984,2
+potassium nitrate,topical,0.01,0.63,1.58730158730159,2
+potassium phosphate,oral,0.1,0.1,100,1
+potassium sulfate,oral,6.69,6.69,100,1
+Povidone,ophtalmic,0,0,NaN,1
+Povidone-Iodine,ophtalmic,0,0,NaN,1
+Pramipexole,oral,1.49,1.49,100,1
+pramoxine,rectal,1.43,1.7,84.1176470588235,3
+pramoxine,topical,0.23,1.7,13.5294117647059,3
+pramoxine,otic,0.04,1.7,2.35294117647059,3
+prasugrel,oral,0.8,0.8,100,1
+Pravastatin,oral,14.67,14.67,100,1
+Praziquantel,oral,0.02,0.02,100,1
+Prazosin,oral,0.48,0.48,100,1
+prednicarbate,topical,0.05,0.05,100,1
+prednisolone,oral,11.99,17.54,68.3580387685291,2
+prednisolone,ophtalmic,5.55,17.54,31.6419612314709,2
+Prednisone,oral,66.5,66.5,100,1
+pregabalin,oral,4.35,4.35,100,1
+Prilocaine,topical,1.69,1.69,100,1
+Primaquine,oral,0.01,0.01,100,1
+Primidone,oral,0.33,0.33,100,1
+Probenecid,oral,0.18,0.18,100,1
+Procarbazine,oral,0,0,NaN,1
+Prochlorperazine,oral,2.02,2.18,92.6605504587156,2
+Prochlorperazine,rectal,0.16,2.18,7.3394495412844,2
+Progesterone,oral,4.03,4.59,87.7995642701525,3
+Progesterone,injection,0.33,4.59,7.18954248366013,3
+Progesterone,vaginal,0.23,4.59,5.01089324618736,3
+Proguanil,oral,2.03,2.03,100,1
+Promazine,injection,0.03,0.03,100,1
+Promethazine,oral,31.7,40.42,78.426521523998,3
+Promethazine,injection,7.26,40.42,17.9614052449283,3
+Promethazine,rectal,1.46,40.42,3.61207323107373,3
+Propafenone,oral,0.29,0.29,100,1
+Propantheline,oral,0.02,0.02,100,1
+proparacaine,ophtalmic,0,0,NaN,1
+Propofol,injection,0,0,NaN,1
+Propranolol,oral,6.12,6.12,100,1
+Propylthiouracil,oral,0.11,0.11,100,1
+Protamines,injection,0.18,0.18,100,1
+Protriptyline,oral,0.04,0.04,100,1
+Pseudoephedrine,oral,9.06,9.06,100,1
+Purified Protein Derivative of Tuberculin,injection,0,0,NaN,1
+Pyrazinamide,oral,0.01,0.01,100,1
+Pyridostigmine,oral,0.16,0.16,100,1
+pyridoxine,oral,1.08,1.08,100,1
+Pyrilamine,oral,0,0,NaN,1
+Pyrimethamine,oral,0,0,NaN,1
+quetiapine,oral,5.3,5.3,100,1
+quinapril,oral,1.64,1.64,100,1
+Quinidine,oral,0.04,0.04,100,1
+Quinine,oral,0.04,0.04,100,1
+rabeprazole,oral,1.05,1.05,100,1
+rabies virus vaccine flury-lep strain,injection,0,0,NaN,1
+"rabies virus vaccine wistar strain PM-1503-3M (Human), Inactivated",injection,0,0,NaN,1
+Raloxifene,oral,1.31,1.31,100,1
+raltegravir,oral,0.25,0.25,100,1
+ramelteon,oral,0.11,0.11,100,1
+Ramipril,oral,3.2,3.2,100,1
+ranibizumab,injection,0.01,0.01,100,1
+Ranitidine,oral,9.69,10.39,93.2627526467757,2
+Ranitidine,injection,0.7,10.39,6.73724735322425,2
+ranolazine,oral,0.43,0.43,100,1
+rasagiline,oral,0.12,0.12,100,1
+regorafenib,oral,0.01,0.01,100,1
+"Regular Insulin, Human",injection,0.79,0.79,100,1
+repaglinide,oral,0.23,0.23,100,1
+retapamulin,topical,0.06,0.06,100,1
+Rho(D) Immune Globulin,injection,1.07,1.07,100,1
+Ribavirin,oral,0.21,0.21,100,1
+Riboflavin,oral,3.4,3.4,100,2
+Riboflavin,injection,0,3.4,0,2
+Rifabutin,oral,0.01,0.01,100,1
+Rifampin,oral,0.34,0.34,100,1
+rifapentine,oral,0.01,0.01,100,1
+rifaximin,oral,0.48,0.48,100,1
+Rilpivirine,oral,0.14,0.14,100,1
+Riluzole,oral,0.02,0.02,100,1
+rimabotulinumtoxinB,injection,0,0,NaN,1
+Rimantadine,oral,0.01,0.01,100,1
+rimexolone,ophtalmic,0.01,0.01,100,1
+riociguat,oral,0.01,0.01,100,1
+Risedronate,oral,0.73,0.73,100,1
+Risperidone,oral,2.51,2.52,99.6031746031746,2
+Risperidone,injection,0.01,2.52,0.396825396825397,2
+Ritonavir,oral,0.4,0.4,100,1
+rituximab,injection,0.01,0.01,100,1
+rivaroxaban,oral,2.65,2.65,100,1
+rivastigmine,transdermal,0.05,0.06,83.3333333333333,2
+rivastigmine,oral,0.01,0.06,16.6666666666667,2
+rizatriptan,oral,4.13,4.13,100,1
+Roflumilast,oral,0.09,0.09,100,1
+ropinirole,oral,2.16,2.16,100,1
+rosiglitazone,oral,0,0,NaN,1
+rosuvastatin,oral,12.49,12.49,100,1
+Rotigotine,transdermal,0.1,0.1,100,1
+Rubella Virus Vaccine Live (Wistar RA 27-3 Strain),injection,0.05,0.05,100,1
+rufinamide,oral,0.03,0.03,100,1
+ruxolitinib,oral,0.01,0.01,100,1
+Saccharomyces boulardii,oral,0,0,NaN,1
+Saccharomyces boulardii lyo,oral,0,0,NaN,1
+Sacrosidase,oral,0,0,NaN,1
+Salicylic Acid,topical,0.51,0.61,83.6065573770492,2
+Salicylic Acid,Medicated Shampoo,0.1,0.61,16.3934426229508,2
+salmon calcitonin,nasal,0.13,0.13,100,1
+Salsalate,oral,0.09,0.09,100,1
+Sapropterin,oral,0.01,0.01,100,1
+Saquinavir,oral,0,0,NaN,1
+sargramostim,injection,0,0,NaN,1
+saxagliptin,oral,1.35,1.35,100,1
+Scopolamine,transdermal,2.94,3.25,90.4615384615385,2
+Scopolamine,oral,0.31,3.25,9.53846153846154,2
+Selegiline,oral,0.03,0.06,50,2
+Selegiline,transdermal,0.03,0.06,50,2
+selenium sulfide,Medicated Shampoo,0.74,0.75,98.6666666666667,2
+selenium sulfide,topical,0.01,0.75,1.33333333333333,2
+"sennosides, USP",oral,0.04,0.04,100,1
+sertaconazole,topical,0.05,0.05,100,1
+Sertraline,oral,26.5,26.5,100,1
+sevelamer,oral,0.3,0.3,100,1
+short ragweed pollen extract,Sublingual Tablet,0,0,NaN,1
+sildenafil,oral,6.29,6.29,100,1
+silodosin,oral,0.42,0.42,100,1
+Silver Nitrate,topical,0.01,0.01,100,1
+Silver Sulfadiazine,topical,2.35,2.35,100,1
+simeprevir,oral,0.07,0.07,100,1
+Simethicone,oral,0.31,0.31,100,1
+Simvastatin,oral,30.04,30.04,100,1
+Sinecatechins,topical,0.1,0.1,100,1
+sipuleucel-T,injection,0,0,NaN,1
+Sirolimus,oral,0.16,0.16,100,1
+sitagliptin,oral,6.06,6.06,100,1
+Sodium Ascorbate,oral,3.74,3.74,100,1
+Sodium Bicarbonate,oral,7.38,7.42,99.4609164420485,2
+Sodium Bicarbonate,injection,0.04,7.42,0.539083557951483,2
+Sodium Chloride,oral,10.69,11.26,94.9378330373002,5
+Sodium Chloride,inhalant,0.34,11.26,3.01953818827709,5
+Sodium Chloride,Irrigation Solution,0.17,11.26,1.50976909413854,5
+Sodium Chloride,injection,0.05,11.26,0.44404973357016,5
+Sodium Chloride,nasal,0.01,11.26,0.088809946714032,5
+sodium citrate,oral,0.04,0.04,100,1
+Sodium ferric gluconate complex,injection,0.17,0.17,100,1
+Sodium Fluoride,oral,5.88,9.59,61.3138686131387,2
+Sodium Fluoride,Toothpaste,3.71,9.59,38.6861313868613,2
+Sodium Oxybate,oral,0.07,0.07,100,1
+sodium phosphate,oral,0.35,0.35,100,1
+"Sodium Phosphate, Dibasic",oral,0.09,0.09,100,1
+"Sodium Phosphate, Monobasic",oral,0.71,0.71,100,1
+Sodium polystyrene sulfonate,oral,0.14,0.14,100,1
+sodium sulfate,oral,14.14,14.14,100,1
+sofosbuvir,oral,0.28,0.28,100,1
+Solifenacin,oral,1.41,1.41,100,1
+Somatropin,injection,0.06,0.06,100,1
+sorafenib,oral,0.02,0.02,100,1
+Sorbitol,oral,0,0,NaN,1
+Sotalol,oral,0.49,0.49,100,1
+Soybean Oil,injection,0,0,NaN,1
+spinosad,Medicated Shampoo,0.09,0.09,100,1
+Spironolactone,oral,7.09,7.09,100,1
+Stannous Fluoride,oral,0.01,0.01,100,1
+Stavudine,oral,0,0,NaN,1
+Succimer,oral,0,0,NaN,1
+Succinic Acid,oral,0.21,0.21,100,1
+Succinylcholine,injection,4.88,4.88,100,1
+Sucralfate,oral,3.6,3.6,100,1
+sucroferric oxyhydroxide,oral,0.01,0.01,100,1
+sulconazole,topical,0.02,0.02,100,1
+Sulfacetamide,Medicated Liquid Soap,2,4.47,44.7427293064877,4
+Sulfacetamide,ophtalmic,1.42,4.47,31.7673378076063,4
+Sulfacetamide,topical,1.02,4.47,22.8187919463087,4
+Sulfacetamide,Medicated Shampoo,0.03,4.47,0.671140939597315,4
+Sulfadiazine,oral,0,0,NaN,1
+Sulfamethoxazole,oral,37.82,37.82,100,2
+Sulfamethoxazole,injection,0,37.82,0,2
+Sulfanilamide,vaginal,0.01,0.01,100,1
+Sulfasalazine,oral,0.86,0.86,100,1
+Sulfisoxazole,oral,0.01,0.01,100,1
+SULFONATED PHENOL,topical,0.01,0.01,100,1
+Sulfur,Medicated Liquid Soap,1.75,2.22,78.8288288288288,2
+Sulfur,topical,0.47,2.22,21.1711711711712,2
+Sulfuric acid,topical,0.01,0.01,100,1
+Sulindac,oral,0.51,0.51,100,1
+Sumatriptan,oral,9.91,10.34,95.8413926499033,3
+Sumatriptan,nasal,0.41,10.34,3.96518375241779,3
+Sumatriptan,injection,0.02,10.34,0.193423597678917,3
+sunitinib,oral,0.02,0.02,100,1
+"synthetic conjugated estrogens, A",oral,0.12,0.12,100,1
+"synthetic conjugated estrogens, B",oral,0.15,0.15,100,1
+Tacrolimus,topical,0.93,1.82,51.0989010989011,2
+Tacrolimus,oral,0.89,1.82,48.9010989010989,2
+tadalafil,oral,5.63,5.63,100,1
+tafluprost,ophtalmic,0.06,0.06,100,1
+Tamoxifen,oral,1.25,1.25,100,1
+tamsulosin,oral,8.44,8.44,100,1
+tapentadol,oral,0.82,0.82,100,1
+tavaborole,topical,0.05,0.05,100,1
+tazarotene,topical,1.48,1.48,100,1
+tazobactam,injection,0,0,NaN,1
+tedizolid,oral,0,0,NaN,1
+telaprevir,oral,0,0,NaN,1
+telmisartan,oral,1.54,1.54,100,1
+Temazepam,oral,3.24,3.24,100,1
+temozolomide,oral,0.14,0.14,100,1
+tenofovir disoproxil,oral,1.55,1.55,100,1
+Terazosin,oral,0.81,0.81,100,1
+terbinafine,oral,3.43,3.45,99.4202898550725,3
+terbinafine,topical,0.01,3.45,0.289855072463768,3
+terbinafine,Oral Granules,0.01,3.45,0.289855072463768,3
+Terbutaline,injection,0.31,0.34,91.1764705882353,2
+Terbutaline,oral,0.03,0.34,8.82352941176471,2
+terconazole,vaginal,3.29,3.29,100,1
+teriflunomide,oral,0.05,0.05,100,1
+tesamorelin,injection,0,0,NaN,1
+Testosterone,topical,5.74,10.07,57.0009930486594,5
+Testosterone,injection,3.74,10.07,37.1400198609732,5
+Testosterone,Drug Implant,0.34,10.07,3.37636544190665,5
+Testosterone,transdermal,0.25,10.07,2.48262164846077,5
+Testosterone,Buccal Film,0,10.07,0,5
+"tetanus toxoid vaccine, inactivated",injection,0.4,0.4,100,1
+Tetrabenazine,oral,0.01,0.01,100,1
+Tetracaine,topical,0.02,0.04,50,3
+Tetracaine,ophtalmic,0.02,0.04,50,3
+Tetracaine,transdermal,0,0.04,0,3
+Tetracycline,oral,0.37,0.37,100,1
+Tetrahydrocannabinol,oral,0.21,0.21,100,1
+Thalidomide,oral,0.01,0.01,100,1
+Theophylline,oral,0.28,0.28,100,1
+Thiamine,oral,3.39,3.39,100,2
+Thiamine,injection,0,3.39,0,2
+Thioguanine,oral,0.01,0.01,100,1
+Thioridazine,oral,0.01,0.01,100,1
+Thiothixene,oral,0.03,0.03,100,1
+THONZONIUM,otic,0.17,0.17,100,1
+thyroid (USP),oral,4.44,4.44,100,1
+thyrotropin alfa (USP),injection,0.04,0.04,100,1
+tiagabine,oral,0.02,0.02,100,1
+Ticagrelor,oral,0.3,0.3,100,1
+Ticarcillin,injection,0,0,NaN,1
+Ticlopidine,oral,0,0,NaN,1
+Timolol,ophtalmic,2.37,2.4,98.75,2
+Timolol,oral,0.03,2.4,1.25,2
+Timothy grass pollen extract,Sublingual Tablet,0,0,NaN,1
+Tinidazole,oral,0.7,0.7,100,1
+tiopronin,oral,0,0,NaN,1
+tiotropium,inhalant,1.8,1.8,100,1
+tipranavir,oral,0,0,NaN,1
+tirofiban,injection,0,0,NaN,1
+tizanidine,oral,6.26,6.26,100,1
+Tobramycin,ophtalmic,10.27,10.49,97.9027645376549,3
+Tobramycin,injection,0.16,10.49,1.52526215443279,3
+Tobramycin,inhalant,0.06,10.49,0.571973307912297,3
+tocilizumab,injection,0.01,0.01,100,1
+tofacitinib,oral,0.09,0.09,100,1
+Tolmetin,oral,0.01,0.01,100,1
+tolterodine,oral,1.02,1.02,100,1
+tolvaptan,oral,0,0,NaN,1
+topiramate,oral,10.29,10.29,100,1
+Topotecan,oral,0,0,NaN,1
+Toremifene,oral,0.01,0.01,100,1
+torsemide,oral,0.51,0.51,100,1
+Tramadol,oral,31.3,31.3,100,1
+trametinib,oral,0.01,0.01,100,1
+trandolapril,oral,0.2,0.2,100,1
+Tranexamic Acid,oral,0.62,0.62,100,1
+Tranylcypromine,oral,0.02,0.02,100,1
+trastuzumab,injection,0,0,NaN,1
+travoprost,ophtalmic,0.76,0.76,100,1
+Trazodone,oral,13.19,13.19,100,1
+Treprostinil,inhalant,0,0,NaN,1
+Tretinoin,topical,8.78,8.79,99.8862343572241,2
+Tretinoin,oral,0.01,8.79,0.113765642775882,2
+Triamcinolone,injection,28.91,55.17,52.4016675729563,3
+Triamcinolone,topical,25.15,55.17,45.5863694036614,3
+Triamcinolone,oral,1.11,55.17,2.01196302338227,3
+Triamterene,oral,7.08,7.08,100,1
+Triazolam,oral,1.51,1.51,100,1
+tricalcium phosphate,oral,0.04,0.04,100,1
+Trientine,oral,0,0,NaN,1
+Trifluoperazine,oral,0.02,0.02,100,1
+Trifluridine,ophtalmic,0.1,0.1,100,1
+Trihexyphenidyl,oral,0.09,0.09,100,1
+Triiodothyronine,oral,1.77,1.77,100,1
+trimethobenzamide,oral,0.12,0.12,100,1
+Trimethoprim,oral,38.05,43.9,86.6742596810934,3
+Trimethoprim,ophtalmic,5.85,43.9,13.3257403189066,3
+Trimethoprim,injection,0,43.9,0,3
+Triptorelin,injection,0,0,NaN,1
+Tropicamide,ophtalmic,0.02,0.02,100,1
+Trospium,oral,0.16,0.16,100,1
+TRYPSIN,topical,0.03,0.03,100,1
+Typhoid Vaccine Live Ty21a,oral,0.57,0.57,100,1
+"Typhoid Vi Polysaccharide Vaccine, S typhi Ty2 strain",injection,0.02,0.02,100,1
+ulipristal,oral,0.02,0.02,100,1
+Urea,topical,1.13,1.13,100,1
+Urofollitropin,injection,0.03,0.03,100,1
+Ursodeoxycholate,oral,0.66,0.66,100,1
+valacyclovir,oral,20.45,20.45,100,1
+valganciclovir,oral,0.12,0.12,100,1
+Valproate,oral,3.04,3.04,100,1
+valsartan,oral,13.52,13.52,100,1
+Vancomycin,oral,0.25,0.31,80.6451612903226,2
+Vancomycin,injection,0.06,0.31,19.3548387096774,2
+vardenafil,oral,0.87,0.87,100,1
+varenicline,oral,5.96,5.96,100,1
+Varicella-Zoster Virus Vaccine Live (Oka-Merck) strain,injection,3,3,100,1
+vedolizumab,injection,0,0,NaN,1
+Vemurafenib,oral,0,0,NaN,1
+venlafaxine,oral,14.19,14.19,100,1
+Verapamil,oral,3.09,3.09,100,1
+Vigabatrin,oral,0,0,NaN,1
+vilazodone,oral,1.32,1.32,100,1
+Vinblastine,injection,0.04,0.04,100,1
+Vincristine,injection,0.14,0.14,100,1
+vinorelbine,injection,0.03,0.03,100,1
+vismodegib,oral,0,0,NaN,1
+Vitamin A,oral,3.34,3.34,100,1
+Vitamin B 12,oral,4.45,7.14,62.3249299719888,3
+Vitamin B 12,injection,2.5,7.14,35.0140056022409,3
+Vitamin B 12,nasal,0.19,7.14,2.66106442577031,3
+Vitamin B Complex,oral,0,0,NaN,1
+Vitamin B6,oral,3.26,3.26,100,2
+Vitamin B6,injection,0,3.26,0,2
+Vitamin D,oral,2.11,2.11,100,1
+Vitamin E,oral,3.15,3.15,100,1
+Vitamin K 1,oral,0.24,0.24,100,2
+Vitamin K 1,injection,0,0.24,0,2
+von Willebrand factor,injection,0,0,NaN,1
+voriconazole,oral,0.07,0.07,100,1
+Vorinostat,oral,0,0,NaN,1
+vortioxetine,oral,0.52,0.52,100,1
+Warfarin,oral,6.13,6.13,100,1
+Water,injection,0.04,0.06,66.6666666666667,2
+Water,Irrigation Solution,0.02,0.06,33.3333333333333,2
+Xylitol,oral,0.04,0.04,100,1
+"Yellow-Fever Virus Vaccine, 17D-204 strain",injection,0.03,0.03,100,1
+zafirlukast,oral,0.2,0.2,100,1
+zaleplon,oral,0.78,0.78,100,1
+Zidovudine,oral,0.09,0.09,100,2
+Zidovudine,injection,0,0.09,0,2
+zileuton,oral,0.03,0.03,100,1
+Zinc Acetate,otic,0.01,0.01,100,2
+Zinc Acetate,topical,0,0.01,0,2
+Zinc Oxide,oral,0.4,0.47,85.1063829787234,2
+Zinc Oxide,topical,0.07,0.47,14.8936170212766,2
+Zinc Sulfate,oral,0.07,0.07,100,1
+ziprasidone,oral,0.75,0.75,100,1
+zoledronic acid,injection,0.02,0.02,100,1
+zolmitriptan,oral,0.76,0.92,82.6086956521739,2
+zolmitriptan,nasal,0.16,0.92,17.3913043478261,2
+zolpidem,oral,22.98,23.06,99.6530789245447,3
+zolpidem,Sublingual Tablet,0.08,23.06,0.346921075455334,3
+zolpidem,Oral Spray,0,23.06,0,3
+zonisamide,oral,0.65,0.65,100,1
